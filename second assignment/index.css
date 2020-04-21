@@ -1,0 +1,106 @@
+/* ================================================================
+                            Thanks Page
+=================================================================== */
+
+#body_main {
+    /* background-color : rgba(0, 47, 255, 0.5);
+    background-image    : url("bgimage.jpg");
+    background-position : center;
+    background-repeat   : no-repeat;
+    background-size     : cover; */
+    cursor: pointer;
+}
+
+#logo {
+    margin-left: 33%;
+    margin-right: 27%;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline
+}
+
+table {
+    font-family: Calibri;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    background-color: blueviolet;
+    border-collapse: collapse;
+}
+
+table.inner {
+    border: 0px
+}
+
+#qua_heading {
+    text-align: center;
+}
+
+.qua_table {
+    padding: 5px;
+}
+
+.btn1 {
+    display: inline-flex;
+    justify-content: space-between;
+    color: black;
+    background-color: #fff;
+    border: none;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 40px;
+    width: auto;
+    text-decoration: none;
+    text-anchor: middle;
+}
+
+.btn2 {
+    display: inline-flex;
+    justify-content: space-between;
+    color: black;
+    background-color: #fff;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    border: none;
+    height: 40px;
+    width: auto;
+}
+
+
+/* ================================================================
+                            Thanks Page
+=================================================================== */
+
+.thanks {
+    font-size: 72px;
+    color: green;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.thank_image {
+    width: 20%;
+    height: 20%;
+    margin-top: 30px;
+    margin-left: 40%;
+}
+
+.para {
+    text-align: center;
+    color: palevioletred;
+    margin-top: -40px;
+}
+
+.back {
+    text-align: center;
+    text-decoration: none;
+    margin-top: -80px;
+}

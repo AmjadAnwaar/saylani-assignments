@@ -1,0 +1,37 @@
+body{
+    background-image: url("pic.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+}
+a{
+    text-decoration: none;
+    color: rgb(237, 230, 255);
+    font-size: 40px;
+    margin-left: 20px;
+    justify-content: space-between;
+    color: #fff;
+    background-color: green;
+    font-size: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 40px;
+    text-decoration: none;
+    text-anchor: middle;
+}
+.btn{
+    margin-left: 20px;
+    justify-content: space-between;
+    color: #fff;
+    background-color: green;
+    font-size: 40px;
+    padding-left: 10%;
+    padding-right: 13.5%;
+    height: 100px;
+    text-decoration: none;
+    text-anchor: middle;
+}
